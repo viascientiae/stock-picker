@@ -26,11 +26,11 @@ stock_picker([17,3,6,9,15,8,6,1,10])
 # Expected output: [1,4]  # for a profit of $15 - $3 == $12
 ```
 
-##Quick Tips:
+## Quick Tips:
 - Always remember: You need to buy before you can sell.
 - Be mindful of edge cases, such as when the lowest day is the last day or the highest day is the first day.
 
-##Getting Started
+## Getting Started
 
 To bring this project to life, I followed these steps:
 
@@ -39,6 +39,6 @@ To bring this project to life, I followed these steps:
 - **Testing**: Conducted rigorous testing to validate the method's accuracy and reliability.
 - **Documentation**: Regularly updated the README and added inline comments to provide clarity on the code's functionality and logic.
 
-##Conclusion
+## Conclusion
 
 The "Ruby Stock Picker" project has been an enlightening experience, shedding light on the intricacies of algorithmic problem-solving in Ruby. As I progress with The Odin Project, I am enthusiastic about facing more challenges and further sharpening my skills in Ruby and software development overall.
